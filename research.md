@@ -4,5 +4,4 @@ title: My research
 subtitle: What I've been working on...
 ---
 
-Test
-Test
+![truck](/img/grains_truck.jpg)
