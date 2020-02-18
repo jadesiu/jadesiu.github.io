@@ -21,7 +21,6 @@ description: A bit about me...
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Reading: "reading"
   CV: "cv"
   Contact: "contact"
 
