@@ -16,9 +16,10 @@ Evaluates the relative impact of unconditional and conditional cash transfer on 
 <br/>
 3. **Informal cross-border trade and agricultural household welfare** <br/>
 Examines the implications of informal cross-border trade on the welfare of agricultural households in Uganda by spatially
-combining panel household survey data and informal trade data across six years.
+combining panel household survey data and informal trade data across six years. <br/>
 <br/>
 4. **Evaluation of Mental Skills for Life, a programme designed to provide life skills for homeless youths** (with Liza Jabbour)<br/>
+<br/>
 5. **Cost and benefit analysis of community-level weaning food hygiene intervention in Gambia** (with Semira Manaseki-Holland, Sami Bensassi and Louise Jackson) <br/>
 <br/>
 6. **Trade and market information demand by cross-border traders** (with Lance Hadley and Julia Lipowiecka)<br/>
