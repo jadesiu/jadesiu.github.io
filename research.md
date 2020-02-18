@@ -6,11 +6,15 @@ subtitle: What I've been working on...
 
 ![truck](/img/grains_truck_2.jpg)
 
-1. One Stop Border Posts and informal cross-border trade
-IGC Project: https://www.theigc.org/project/trade-facilitation-and-informal-cross-border-trade/
+1. One Stop Border Posts and informal cross-border trade<br/>
+IGC Project: https://www.theigc.org/project/trade-facilitation-and-informal-cross-border-trade/ <br/>
+
+Policy Brief:
+https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf
+
 Working paper:
 Siu, J. (2019). Trade costs, trade facilitation, and formalisation of trade. IGC Working paper F-43435-UGA-1
-https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf
+https://www.theigc.org/wp-content/uploads/2019/07/Siu-2019-Working-paper.pdf
 
 2. Conditional and unconditional cash transfer (with Olivier Sterck) ///
 Evaluates the relative impact of unconditional and conditional cash transfer on beneficiaries in a refugee camp in Kenya by
