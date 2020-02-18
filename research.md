@@ -12,7 +12,7 @@ Working paper:
 Siu, J. (2019). Trade costs, trade facilitation, and formalisation of trade. IGC Working paper F-43435-UGA-1
 https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf
 
-2. Conditional and unconditional cash transfer (with Olivier Sterck)
+2. Conditional and unconditional cash transfer (with Olivier Sterck) ///
 Evaluates the relative impact of unconditional and conditional cash transfer on beneficiaries in a refugee camp in Kenya by
 using survey data.
 
