@@ -5,4 +5,4 @@ title: CV
 
 ![calm](/img/salt.jpg)
 
-[Download here](../blob/master/img/Jade Siu CV_10feb2020.pdf)
+[Download here](https://github.com/jadesiu/jadesiu.github.io/blob/master/Jade%20Siu%20CV_10feb2020.pdf)
