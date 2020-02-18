@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Reading for fun
+title: CV
 ---
 
 ![calm](/img/salt.jpg)
 
+[Download here](/img/Jade Siu CV_10feb2020.pdf)
 
-I write down what I've just read so to reduce the number of unread books on my shelf...
+
 
