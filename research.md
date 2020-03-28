@@ -7,6 +7,7 @@ subtitle: What I've been working on...
 ![truck](/img/grains_truck_2.jpg)
 
 1. **One Stop Border Posts and informal cross-border trade**<br/>
+      [Lastest version](https://github.com/jadesiu/jadesiu.github.io/blob/master/200310_osbp_paper.pdf) <br/>
       [IGC Project](https://www.theigc.org/project/trade-facilitation-and-informal-cross-border-trade/) <br/>
       [Policy Brief](https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf) <br/>
       [Working Paper](https://www.theigc.org/wp-content/uploads/2019/07/Siu-2019-Working-paper.pdf) <br/>
