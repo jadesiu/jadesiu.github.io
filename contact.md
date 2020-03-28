@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Say hello! 
+title: Say hello!
 subtitle: Hello!
 ---
 
