@@ -2,9 +2,10 @@
 ---
 layout: page
 title: Say hello! 
+subtitle: Hello!
 ---
 
-![truck](/img/grains_truck_2.jpg)
+![salt](/img/salt.jpg)
 
 **Any book recommendations?**<br/>
       [Some books on my list](https://www.goodreads.com/review/list/111419239) <br/>
