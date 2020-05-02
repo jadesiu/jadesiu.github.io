@@ -7,10 +7,10 @@ subtitle: What I've been working on...
 ![truck](/img/grains_truck_2.jpg)
 
 1. **One Stop Border Posts and informal cross-border trade**<br/>
-      [Lastest version](https://github.com/jadesiu/jadesiu.github.io/blob/master/200310_osbp_paper.pdf) <br/>
+      [Lastest version](https://ideas.repec.org/p/bir/birmec/20-08.html) <br/>
       [IGC Project](https://www.theigc.org/project/trade-facilitation-and-informal-cross-border-trade/) <br/>
       [Policy Brief](https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf) <br/>
-      [Working Paper](https://www.theigc.org/wp-content/uploads/2019/07/Siu-2019-Working-paper.pdf) <br/>
+      
 <br/>
 2. **Conditional and unconditional cash transfer** (with Olivier Sterck) <br/>
 Evaluates the relative impact of unconditional and conditional cash transfer on beneficiaries in a refugee camp in     Kenya by using survey data. <br/>
