@@ -18,9 +18,12 @@ There has been a sharp increase in the adoption of cash transfer programmes worl
 <br/>
 4. **Evaluation of community-level weaning food hygiene intervention in the Gambia and Mali (c-RCT)** (with Semira Manaseki-Holland, Sami Bensassi and Louise Jackson) <br/>
 <br/>
-5. **Informal cross-border trade and agricultural household welfare** <br/>
+5. **Quantifying Missing and Hidden Trade: an Economic Perspective** (with Sami Bensassi) <br/>
+Chapter in Routledge Handbook of Smuggling, edited by Max Gallien and Florian Weigand.
+<br/>
+6. **Informal cross-border trade and agricultural household welfare** <br/>
 Examines the implications of informal cross-border trade on the welfare of agricultural households in Uganda by spatially
 combining panel household survey data and informal trade data across six years. <br/>
 <br/>
-6. **Evaluation of Mental Skills for Life, a programme designed to provide life skills for homeless youths** (with Liza Jabbour)<br/>
+7. **Evaluation of Mental Skills for Life, a programme designed to provide life skills for homeless youths** (with Liza Jabbour)<br/>
 
