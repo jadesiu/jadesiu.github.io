@@ -23,8 +23,6 @@ Smuggling (pp. 61-76). Routledge. <br/>
 [Link](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003043645-5/quantifying-missing-hidden-trade-sami-bensassi-jade-siu) <br/>
 
 5. One Stop Border Posts and informal cross-border trade<br/>
-      [Lastest version](https://ideas.repec.org/p/bir/birmec/20-08.html) <br/>
-      [IGC Project](https://www.theigc.org/project/trade-facilitation-and-informal-cross-border-trade/) <br/>
-      [Policy Brief](https://www.theigc.org/wp-content/uploads/2020/01/Siu-2019-policy-brief.pdf) <br/>   
+      [Lastest version](https://github.com/jadesiu/jadesiu.github.io/blob/master/211201_osbp.pdf) <br/>
 <br/>
 
