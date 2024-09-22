@@ -23,7 +23,7 @@ Tropical Medicine & International Health, 2021 <br/>
 <br/>
 Quantifying missing and hidden trade: An economic perspective <br/>
 With Bensassi, S. <br/>
-Book chapter in The Routledge Handbook of Smuggling <br/>
+Book chapter in The Routledge Handbook of Smuggling, edited by Gallien, M., Weigand, F., 2021 <br/>
 [Open access](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003043645-5/quantifying-missing-hidden-trade-sami-bensassi-jade-siu) <br/>
 
 **Selected work in progress**
