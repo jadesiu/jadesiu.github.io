@@ -44,6 +44,7 @@ Refugee trap? <br/>
 With Betts, A., Omata, N., Sterck, S. <br/>
 <br/>
 One Stop Border Posts and informal cross-border trade <br/>
+With Jabbour, L., Bensassi, S.
       [Lastest version](https://github.com/jadesiu/jadesiu.github.io/blob/master/211201_osbp.pdf) <br/>
 <br/>
 
