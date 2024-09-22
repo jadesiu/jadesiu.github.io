@@ -19,7 +19,7 @@ Journal of Ethnic and Migration Studies, 2023 <br/>
 Cost-effectiveness of a weaning food safety and hygiene programme in rural Gambia <br/>
 With Jackson, L. J., Bensassi, S., Manjang, B., & Manaseki Holland, S. <br/>
 Tropical Medicine & International Health, 2021 <br/>
-[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/tmi.13691)
+[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/tmi.13691) <br/>
 <br/>
 Quantifying missing and hidden trade: An economic perspective <br/>
 With Bensassi, S. <br/>
