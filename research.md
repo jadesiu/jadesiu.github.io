@@ -29,11 +29,11 @@ Book chapter in The Routledge Handbook of Smuggling, edited by Gallien, M., Weig
 **Selected work in progress**
 
 How to encourage formal work in Jordan <br/>
-With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, S. <br/>
+With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
 [Registered trial](https://www.socialscienceregistry.org/trials/13884) <br/>
 <br/>
 Impact Evaluation of Interventions to Expand Social Security in Jordan <br/>
-With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, S. <br/>
+With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
 [Registered trial](https://www.socialscienceregistry.org/trials/12975) <br/>
 <br/>
 Impact evaluation of skilled-worker visas for refugee talents <br/>
@@ -41,7 +41,7 @@ With Maystadt, J.F., Moussa, N, Rostom, N., Sterck, O., Walder, S. <br/>
 [Registered in 3ie RIDIE] <br/>
 <br/>
 Refugee trap? <br/>
-With Betts, A., Omata, N., Sterck, S. <br/>
+With Betts, A., Omata, N., Sterck, O. <br/>
 <br/>
 One Stop Border Posts and informal cross-border trade <br/>
 With Jabbour, L., Bensassi, S. <br/>
