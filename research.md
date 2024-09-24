@@ -8,13 +8,13 @@ subtitle: Publications & selected work-in-progress
 
 The Freedom to Choose: Theory and Quasi-Experimental Evidence on Cash Transfer Restrictions <br/>
 with Sterck, O. and Rodgers, R. <br/>
-[Paper](https://www.sciencedirect.com/science/article/pii/S0304387822001699) <br/>
 Journal of Development Economics, 2023 <br/>
+[Paper](https://www.sciencedirect.com/science/article/pii/S0304387822001699) <br/>
 <br/>
 Refugee Mobilities in East Africa: Understanding Secondary Movements <br/>
 With Betts, A., Omata, N., & Sterck O. <br/>
-[Paper](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2169113)
 Journal of Ethnic and Migration Studies, 2023 <br/>
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2169113)
 <br/>
 Cost-effectiveness of a weaning food safety and hygiene programme in rural Gambia <br/>
 With Jackson, L. J., Bensassi, S., Manjang, B., & Manaseki Holland, S. <br/>
