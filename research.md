@@ -14,7 +14,7 @@ Journal of Development Economics, 2023 <br/>
 Refugee Mobilities in East Africa: Understanding Secondary Movements <br/>
 With Betts, A., Omata, N., & Sterck O. <br/>
 Journal of Ethnic and Migration Studies, 2023 <br/>
-[Paper](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2169113)
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2169113)<br/>
 <br/>
 Cost-effectiveness of a weaning food safety and hygiene programme in rural Gambia <br/>
 With Jackson, L. J., Bensassi, S., Manjang, B., & Manaseki Holland, S. <br/>
@@ -28,19 +28,22 @@ Book chapter in The Routledge Handbook of Smuggling, edited by Gallien, M., Weig
 
 **Selected work in progress**
 
-How to encourage formal work in Jordan <br/>
-With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
+Pecuniary and non-pecuniary returns to higher education: evidence from the world’s largest scholarship for displaced people (new)<br/> 
+With Afredzie, L. and Sterck, O.<br/>
+<br/> 
+Encouraging formal work through social security: evidence from nation-wide experiments in Jordan (data collection in progress) <br/>
+With Altindag, O., Athias, D., Haidar, A., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
 [Registered trial](https://www.socialscienceregistry.org/trials/13884) <br/>
 <br/>
-Impact Evaluation of Interventions to Expand Social Security in Jordan <br/>
-With Altindag, O., Athias, D., Haidar, A., McClanahan, S., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
+Impact Evaluation of Interventions to Expand Social Security in Jordan (data collection in progress) <br/>
+With Altindag, O., Athias, D., Haidar, A., Moughabghab, M., Nastasi, S., Sterck, O. <br/>
 [Registered trial](https://www.socialscienceregistry.org/trials/12975) <br/>
 <br/>
-Impact evaluation of skilled-worker visas for refugee talents <br/>
+Impact evaluation of skilled-worker visas for refugee talents (data collection in progress) <br/>
 With Maystadt, J.F., Moussa, N, Rostom, N., Sterck, O., Walder, S. <br/>
 [Registered in 3ie RIDIE] <br/>
 <br/>
-Refugee trap? <br/>
+Refugee trap: the economics of displacement (in production, Cambridge University Press)<br/>
 With Betts, A., Omata, N., Sterck, O. <br/>
 <br/>
 One Stop Border Posts and informal cross-border trade <br/>
