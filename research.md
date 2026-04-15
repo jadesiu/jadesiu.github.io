@@ -16,6 +16,9 @@ With Betts, A., Omata, N., & Sterck O. <br/>
 Journal of Ethnic and Migration Studies, 2023 <br/>
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/1369183X.2023.2169113)<br/>
 <br/>
+Refugee trap: the economics of displacement (in production, Cambridge University Press)<br/>
+With Betts, A., Omata, N., Sterck, O. <br/>
+<br/>
 Cost-effectiveness of a weaning food safety and hygiene programme in rural Gambia <br/>
 With Jackson, L. J., Bensassi, S., Manjang, B., & Manaseki Holland, S. <br/>
 Tropical Medicine & International Health, 2021 <br/>
@@ -42,9 +45,6 @@ With Altindag, O., Athias, D., Haidar, A., Moughabghab, M., Nastasi, S., Sterck,
 Impact evaluation of skilled-worker visas for refugee talents (data collection in progress) <br/>
 With Maystadt, J.F., Moussa, N, Rostom, N., Sterck, O., Walder, S. <br/>
 [Registered in 3ie RIDIE] <br/>
-<br/>
-Refugee trap: the economics of displacement (in production, Cambridge University Press)<br/>
-With Betts, A., Omata, N., Sterck, O. <br/>
 <br/>
 One Stop Border Posts and informal cross-border trade <br/>
 With Jabbour, L., Bensassi, S. <br/>
